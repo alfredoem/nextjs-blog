@@ -1,0 +1,2 @@
+# NextJs Example
+### Static Website
